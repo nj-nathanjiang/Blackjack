@@ -1,4 +1,4 @@
-import Day_11_Art as Art
+import Art as Art
 import random
 
 
